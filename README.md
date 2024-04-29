@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -32,8 +32,8 @@ Users should be able to:
 A
 ### Links
 
-- Solution URL: [https://github.com/vipinsharmaa/blog-preview-card-Frontend-mentor](https://your-solution-url.com)
-- Live Site URL: [https://vipinsharmaa.github.io/blog-preview-card-Frontend-mentor/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/vipinsharmaa/blog-preview-card-Frontend-mentor](https://github.com/vipinsharmaa/blog-preview-card-Frontend-mentor)
+- Live Site URL: [https://vipinsharmaa.github.io/blog-preview-card-Frontend-mentor/](https://vipinsharmaa.github.io/blog-preview-card-Frontend-mentor/)
 
 ## My process
 
